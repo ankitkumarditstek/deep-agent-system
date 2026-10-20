@@ -171,8 +171,3 @@ Open your browser to `http://localhost:8501` to access the **Deep Agents Researc
 - **Custom Tools**: Define new `@tool` decorated functions in `tools.py` and register them in `deep_agent.py`.
 - **Adjusting Guardrails**: Add or remove tools in the `interrupt_on={...}` mapping in `deep_agent.py` to change which actions require human authorization.
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
